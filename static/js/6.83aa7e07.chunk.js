@@ -1,0 +1,2 @@
+(this.webpackJsonpatharva=this.webpackJsonpatharva||[]).push([[6],{72:function(a,i,t){"use strict";t.r(i),i.default=t.p+"static/media/why-did-i-quit-social-media.609cf3c9.md"}}]);
+//# sourceMappingURL=6.83aa7e07.chunk.js.map

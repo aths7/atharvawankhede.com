@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/atharvawankhede.com/static/css/main.1c2165b0.chunk.css",
+    "main.js": "/atharvawankhede.com/static/js/main.dad21c4b.chunk.js",
+    "main.js.map": "/atharvawankhede.com/static/js/main.dad21c4b.chunk.js.map",
+    "runtime-main.js": "/atharvawankhede.com/static/js/runtime-main.c6035d7d.js",
+    "runtime-main.js.map": "/atharvawankhede.com/static/js/runtime-main.c6035d7d.js.map",
+    "static/css/2.d863de63.chunk.css": "/atharvawankhede.com/static/css/2.d863de63.chunk.css",
+    "static/js/2.e1108d13.chunk.js": "/atharvawankhede.com/static/js/2.e1108d13.chunk.js",
+    "static/js/2.e1108d13.chunk.js.map": "/atharvawankhede.com/static/js/2.e1108d13.chunk.js.map",
+    "static/js/3.db7a7ec3.chunk.js": "/atharvawankhede.com/static/js/3.db7a7ec3.chunk.js",
+    "static/js/3.db7a7ec3.chunk.js.map": "/atharvawankhede.com/static/js/3.db7a7ec3.chunk.js.map",
+    "static/js/4.401a8762.chunk.js": "/atharvawankhede.com/static/js/4.401a8762.chunk.js",
+    "static/js/4.401a8762.chunk.js.map": "/atharvawankhede.com/static/js/4.401a8762.chunk.js.map",
+    "static/js/5.3a02cb42.chunk.js": "/atharvawankhede.com/static/js/5.3a02cb42.chunk.js",
+    "static/js/5.3a02cb42.chunk.js.map": "/atharvawankhede.com/static/js/5.3a02cb42.chunk.js.map",
+    "static/js/6.83aa7e07.chunk.js": "/atharvawankhede.com/static/js/6.83aa7e07.chunk.js",
+    "static/js/6.83aa7e07.chunk.js.map": "/atharvawankhede.com/static/js/6.83aa7e07.chunk.js.map",
+    "static/js/7.e570e79b.chunk.js": "/atharvawankhede.com/static/js/7.e570e79b.chunk.js",
+    "static/js/7.e570e79b.chunk.js.map": "/atharvawankhede.com/static/js/7.e570e79b.chunk.js.map",
+    "index.html": "/atharvawankhede.com/index.html",
+    "static/css/2.d863de63.chunk.css.map": "/atharvawankhede.com/static/css/2.d863de63.chunk.css.map",
+    "static/css/main.1c2165b0.chunk.css.map": "/atharvawankhede.com/static/css/main.1c2165b0.chunk.css.map",
+    "static/js/2.e1108d13.chunk.js.LICENSE.txt": "/atharvawankhede.com/static/js/2.e1108d13.chunk.js.LICENSE.txt",
+    "static/media/atharva.0ac8a190.png": "/atharvawankhede.com/static/media/atharva.0ac8a190.png",
+    "static/media/do-websites-have-an-aadhaar-card-understanding-pki-digital-signatures-digital-certificates.md": "/atharvawankhede.com/static/media/do-websites-have-an-aadhaar-card-understanding-pki-digital-signatures-digital-certificates.f4c57ef9.md",
+    "static/media/App.scss": "/atharvawankhede.com/static/media/map.0d7639e8.svg",
+    "static/media/home.25ce5e69.gif": "/atharvawankhede.com/static/media/home.25ce5e69.gif",
+    "static/media/how-i-used-a-bot-to-successfully-book-a-vaccination-slot-in-2-days.md": "/atharvawankhede.com/static/media/how-i-used-a-bot-to-successfully-book-a-vaccination-slot-in-2-days.81d564af.md",
+    "static/media/slick-theme.css": "/atharvawankhede.com/static/media/slick.c94f7671.ttf",
+    "static/media/the-himym-end-another-take.md": "/atharvawankhede.com/static/media/the-himym-end-another-take.f07b343e.md",
+    "static/media/why-did-i-quit-social-media.md": "/atharvawankhede.com/static/media/why-did-i-quit-social-media.609cf3c9.md",
+    "static/media/why-is-the-human-soul-required.md": "/atharvawankhede.com/static/media/why-is-the-human-soul-required.33cf9bf1.md"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6035d7d.js",
+    "static/css/2.d863de63.chunk.css",
+    "static/js/2.e1108d13.chunk.js",
+    "static/css/main.1c2165b0.chunk.css",
+    "static/js/main.dad21c4b.chunk.js"
+  ]
+}

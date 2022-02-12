@@ -1,0 +1,2 @@
+(this.webpackJsonpatharva=this.webpackJsonpatharva||[]).push([[7],{73:function(a,t,s){"use strict";s.r(t),t.default=s.p+"static/media/why-is-the-human-soul-required.33cf9bf1.md"}}]);
+//# sourceMappingURL=7.e570e79b.chunk.js.map
