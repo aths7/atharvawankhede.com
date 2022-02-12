@@ -1,2 +1,0 @@
-(this.webpackJsonpatharva=this.webpackJsonpatharva||[]).push([[5],{71:function(a,t,e){"use strict";e.r(t),t.default=e.p+"static/media/the-himym-end-another-take.f07b343e.md"}}]);
-//# sourceMappingURL=5.3a02cb42.chunk.js.map
