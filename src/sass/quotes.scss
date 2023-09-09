@@ -1,0 +1,83 @@
+.spacer {
+    height: 96px;
+}
+.quote-page-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 0;
+
+    .container {
+        max-width: 800px;
+        width: 100%;
+        padding: 0 1rem;
+
+        .quote-single {
+            background-color: rgba(0, 0, 0, 0.02); // Light grey background
+            border: 1px solid rgba(0, 0, 0, 0.1); // Light border
+            border-radius: 10px;
+            padding: 2rem;
+            margin: 1rem 0;
+            position: relative;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05); // Soft shadow
+
+            blockquote {
+                font-family: 'Merriweather', serif; // This will apply the Merriweather font
+                font-size: 1.2rem;
+                line-height: 1.6;
+                color: #333; 
+                font-style: italic;
+
+                &::before {
+                    content: "“";
+                    font-size: 3rem;
+                    color: rgba(0, 0, 0, 0.1); // Subtle grey for quotation marks
+                    position: absolute;
+                    top: 10px;
+                    left: 10px;
+                }
+
+                &::after {
+                    content: "”";
+                    font-size: 3rem;
+                    color: rgba(0, 0, 0, 0.1); // Subtle grey for quotation marks
+                    position: absolute;
+                    bottom: 10px;
+                    right: 10px;
+                }
+            }
+        }
+    }
+}
+
+
+// .quote-container {
+//     max-width: 800px;
+//     margin: 0 auto;
+//     padding: 0 1rem;
+// }
+
+// .quote-single {
+//     background-color: #ffffff;
+//     padding: 2rem;
+//     margin-bottom: 1.5rem;
+//     border-radius: 5px;
+//     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+//     position: relative;
+// }
+
+// .quote-single:before {
+//     content: '“';
+//     font-size: 3rem;
+//     position: absolute;
+//     top: 10px;
+//     left: 10px;
+//     color: #007BFF; /* Adjust the color to match your design */
+// }
+
+// .quote-single blockquote {
+//     margin: 0;
+//     font-style: italic;
+//     line-height: 1.5;
+// }

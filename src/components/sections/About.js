@@ -28,14 +28,14 @@ function About() {
                         Essays
                       </Link>
                     </span>
-                    <span className="m-3">
+                    {/* <span className="m-3">
                       <a
                         href="https://atharvawankhede.substack.com/"
                         className="btn btn-default"
                       >
                         NewsLetter
                       </a>
-                    </span>
+                    </span> */}
                   </div>
 
                   <div
