@@ -1,2 +1,0 @@
-(this.webpackJsonpbolby=this.webpackJsonpbolby||[]).push([[4],{70:function(s,o,t){"use strict";t.r(o),o.default=t.p+"static/media/how-i-used-a-bot-to-successfully-book-a-vaccination-slot-in-2-days.81d564af.md"}}]);
-//# sourceMappingURL=4.ba06ec94.chunk.js.map
