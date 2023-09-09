@@ -2,6 +2,7 @@ import React from "react";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 import Homepage from "./pages/Homepage3";
 import Bloglist from "./pages/Bloglist";
+import QuoteDetails from "./pages/Quotes";
 import BlogDetails from "./pages/BlogDetails";
 import "./App.scss";
 
@@ -10,7 +11,7 @@ function App() {
     <BrowserRouter>
       <Switch>
         <Route path="/essays" component={Bloglist} exact />
-        <Route path="/quotes" component={Bloglist} exact />
+        <Route path="/quotes" component={QuoteDetails} exact />
         <Route
           path="/essays/essay-details/:id/:title"
           component={BlogDetails}
