@@ -126,12 +126,12 @@ function Header3({ light, logoSource, bootstrapNav }) {
                 <Link
                   activeClass="active"
                   className="nav-link"
-                  to="/essays"
+                  to="/quotes"
                   spy={true}
                   smooth={true}
                   duration={500}
                 >
-                  Notebook
+                  Quotes
                 </Link>
               </li>
               <li className="nav-item">

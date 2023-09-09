@@ -9,14 +9,15 @@ function App() {
   return (
     <BrowserRouter>
       <Switch>
-        <Route path="/" exact>
-          <Homepage />
-        </Route>
         <Route path="/essays" component={Bloglist} exact />
+        <Route path="/quotes" component={Bloglist} exact />
         <Route
           path="/essays/essay-details/:id/:title"
           component={BlogDetails}
         />
+        <Route path="/">
+          <Homepage />
+        </Route>
       </Switch>
     </BrowserRouter>
   );
